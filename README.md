@@ -20,3 +20,8 @@
 * Data Augmentation for ANN
 * Transfer Learning models with VGG16, ImageNet, Resnet
   
+### Project 6: NLP Stock Market News Sentiment Analysis and Text Summarization using Transformers and LLMs
+ * Word Embeddings using Word2Vec, glove
+ * Semantic Search 
+ * Sentiment Analysis
+ * Text Summarization using LLM
